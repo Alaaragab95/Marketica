@@ -1,2 +1,9 @@
+# Marketika Project
 
- مشروع عن محتوى تعليمي مبسط و عملي يقدم عبر وسائل التواصل الاجتماعي و تحديدا فى فيسبوك و انستجرام فى المرحلة الاولى لمشروع عبارة عن منصة تعليمية رقمية متخصصة فى مجال التسويق تهدف إلى نشر الوعي التسويقى و تبسيط مفاهيم الماركتينج للافراد و الشركات الناشئة من خلال
+This project represents the first phase of a digital educational platform focused on marketing.
+
+It delivers simplified and practical marketing content through social media platforms, specifically Facebook and Instagram.
+
+The main objective is to raise marketing awareness and break down complex marketing concepts into easy-to-understand and actionable insights for individuals and startups.
+
+The content is designed to be clear, engaging, and applicable, helping the audience not only understand marketing but also apply it effectively in real-world scenarios.
